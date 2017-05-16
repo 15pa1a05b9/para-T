@@ -1,0 +1,26 @@
+body{
+    background: url(bg.svg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+#first{
+    position: fixed;
+    bottom: 0%;
+    right: 45%;
+}
+.player{
+    position: absolute;
+}
+
+.bullet {
+    position: absolute;
+    width: 12px;
+}
+.heli,.heli1,.heli3{
+    position: absolute;
+    width:5%;
+}
+.troops{
+    position: absolute;
+    width: 5%;
+}
